@@ -1,0 +1,30 @@
+
+*{
+    outline: 1px solid red
+}
+.card-1{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/tiering-bucket-r4g075526-632x384.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.card-2{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/RYD_USHomePageTeaser_632x348.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.card-3{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/x330-woman-riding-682x384.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.card-4{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/buyonline3-nmb.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.cards{
+    height: 60vh;
+}
+.font-size{
+    font-size: 40px;
+}
